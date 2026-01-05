@@ -1,2 +1,2 @@
 # Devops-labs
-The labs are part of the https://roadmap.sh/projects/server-stats 
+The labs are the part of the https://roadmap.sh/projects/server-stats project
