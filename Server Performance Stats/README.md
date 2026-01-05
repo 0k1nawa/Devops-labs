@@ -15,11 +15,11 @@ git clone https://github.com/0k1nawa/Devops-labs.git
 
  **2) grant execution permission**
  ```
-chmod +x Devops-labs/'Server Perfomance Stats'/ServerStats.sh
+chmod +x Devops-labs/'Server Performance Stats'/ServerStats.sh
 ```
  **3) run the script**
  ```
-./Devops-labs/'Server Perfomance Stats'/ServerStats.sh
+./Devops-labs/'Server Performance Stats'/ServerStats.sh
 ```
 
 
