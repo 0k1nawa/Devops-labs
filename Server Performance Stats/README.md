@@ -24,4 +24,4 @@ chmod +x Devops-labs/'Server Performance Stats'/ServerStats.sh
 
 
 
-This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
+This project is part of https://roadmap.sh/projects/server-stats DevOps projects.
