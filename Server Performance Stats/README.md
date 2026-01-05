@@ -8,7 +8,8 @@ A bash script to analyse Server perfomance stats such as:
 ***• 5 Top processes by Memory consumption***<br>
 
 ## Getting started
-`git clone ``
+```
+git clone https://github.com/0k1nawa/Devops-labs/blob/main/Server%20Performance%20Stats/ServerStats.sh
 
 ```
 
